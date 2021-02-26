@@ -1,5 +1,4 @@
 # Lennart Lewis
-___
 As a Computer technology Student, I am currently studying Information & Web Systems Development. My interests are in automation and the development aspect of creating systems. 
 ___
 
