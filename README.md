@@ -4,7 +4,7 @@ As a Computer technology Student, I am currently studying Information & Web Syst
 
 Skills: HTML | CSS | Javascript | Bootstrap | SQL | Python | Docker | Flask | Linux | Shell Scripting | MacOS | IOS | Swift | Xcode | GIT | PHP
 
-- 🔭 I’m currently working on Content Management Systems * Building Web Applications in my current courses 
+- 🔭 I’m currently working on Content Management Systems & Building Web Applications in my current courses 
 - 🌱 I’m currently learning C#, Design Patterns, Python, Docker, Travis, Laravel, PHP 
 - 📫 How to reach me: lenlew25@gmail.com 
 - ⚡ Fun fact: I play two instruments. 
