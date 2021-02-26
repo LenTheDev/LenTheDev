@@ -6,8 +6,7 @@ Skills: HTML | CSS | Javascript | Bootstrap | SQL | Python | Docker | Flask | Li
 
 - 🔭 I’m currently working on Content Management Systems & Building Web Applications in my current courses 
 - 🌱 I’m currently learning C#, Design Patterns, Python, Docker, Travis, Laravel, PHP 
-- 📫 How to reach me: [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/lenthedeveloper//)  
-- ⚡ Fun fact: I play two instruments. 
+- 📫 How to reach me: https://www.linkedin.com/in/lenthedeveloper
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenTheDev)](https://github.com/anuraghazra/github-readme-stats)
