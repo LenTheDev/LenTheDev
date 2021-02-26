@@ -1,6 +1,7 @@
-### Hi there 👋, My name is Lennart Lewis 
-#### I am a Senior at The New Jersey Institute of Technology 
+### Lennart Lewis
+___
 As a Computer technology Student, I am currently studying Information & Web Systems Development. My interests are in automation and the development aspect of creating systems. 
+___
 
 Skills: HTML | CSS | Javascript | Bootstrap | SQL | Python | Docker | Flask | Linux | Shell Scripting | MacOS | IOS | Swift | Xcode | GIT | PHP
 
