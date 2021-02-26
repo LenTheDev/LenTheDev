@@ -5,11 +5,11 @@ ___
 
 Skills and Experience
 ___
-* Front-end: HTML | CSS | Javascript | Bootstrap |
-* Back-End: PHP | Python |  Docker | Flask |
-* Mobile: IOS | Swift | Xcode |
-* Devops: Linux | Shell Scripting |
-
-- 🔭 I’m currently working on Content Management Systems & Building Web Applications in my current courses 
+* 💻 HTML | CSS | Javascript | Bootstrap |
+* 🛠 PHP | Python |  Docker | Flask |
+* 📱 IOS | Swift | Xcode |
+* ⚙️ Linux | Shell Scripting |
+___
+- ⌨️ I’m currently working on Content Management Systems & Building Web Applications in my current courses 
 - 🌱 I’m currently learning C#, Design Patterns, Python, Docker, Travis, Laravel, PHP 
 - 📫 How to reach me: https://www.linkedin.com/in/lenthedeveloper
