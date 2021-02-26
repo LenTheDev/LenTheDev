@@ -9,9 +9,3 @@ Skills: HTML | CSS | Javascript | Bootstrap | SQL | Python | Docker | Flask | Li
 - 🌱 I’m currently learning C#, Design Patterns, Python, Docker, Travis, Laravel, PHP 
 - 📫 How to reach me: https://www.linkedin.com/in/lenthedeveloper
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LenTheDev)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LenTheDev&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/LenTheDev)  
