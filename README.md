@@ -3,7 +3,7 @@ As a Computer technology Student, I am currently studying Information & Web Syst
 ___
 
 ## Skills and Experience
-___
+
 * 💻 HTML | CSS | Javascript | Bootstrap |
 * 🛠 PHP | Python |  Docker | Flask |
 * 📱 IOS | Swift | Xcode |
