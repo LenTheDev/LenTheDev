@@ -5,8 +5,10 @@ ___
 
 Skills and Experience
 ___
-* 
-HTML | CSS | Javascript | Bootstrap | SQL | Python | Docker | Flask | Linux | Shell Scripting | MacOS | IOS | Swift | Xcode | GIT | PHP
+* Front-end: HTML | CSS | Javascript | Bootstrap |
+* Back-End: PHP | Python |  Docker | Flask |
+* Mobile: IOS | Swift | Xcode |
+* Devops: Linux | Shell Scripting |
 
 - 🔭 I’m currently working on Content Management Systems & Building Web Applications in my current courses 
 - 🌱 I’m currently learning C#, Design Patterns, Python, Docker, Travis, Laravel, PHP 
