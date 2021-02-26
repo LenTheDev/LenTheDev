@@ -8,5 +8,5 @@ As a Computer technology Student, I am currently studying Information & Web Syst
 * ⚙️ Linux | Shell Scripting |
 ___
 - ⌨️ I’m currently working on Content Management Systems & Building Web Applications in my current courses 
-- 🌱 I’m currently learning C#, Design Patterns, Python, Docker, Travis, Laravel, PHP 
+- 🌱 I’m currently learning C#, Design Patterns, Python, Docker, Travis, PHP & Laravel
 - 📫 How to reach me: https://www.linkedin.com/in/lenthedeveloper
