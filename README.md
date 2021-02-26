@@ -11,5 +11,5 @@ ___
 - 🌱 I’m currently learning C#, Design Patterns, Python, Docker, Travis, PHP & Laravel
 - 📫 How to reach me: https://www.linkedin.com/in/lenthedeveloper
 ___
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LenTheDev&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=LenTheDev&show_icons=true&theme=chartreuse-dark)
 
