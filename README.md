@@ -12,7 +12,7 @@ ___
 - ⌨️ I’m currently working on Content Management Systems & Building Web Applications in my current courses 
 - 🌱 I’m currently learning C#, Agile, Design Patterns, Python, Docker, Travis, PHP & Laravel
 - 📫 How to reach me: https://www.linkedin.com/in/lenthedeveloper
-- 📚 Class Project About The History of The Internet Hosted on GitPages [Project Here !](https://lenthedev.me/index.html)
+- 📚 In Class Project About The History of The Internet - Hosted on GitPages [Project Here](https://lenthedev.me/index.html)
 ___
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=LenTheDev&show_icons=true&theme=chartreuse-dark)
 
